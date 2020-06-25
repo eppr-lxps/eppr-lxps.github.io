@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to EPPR-lxps.github.io
 
 You can use the [editor on GitHub](https://github.com/eppr-lxps/eppr-lxps.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
