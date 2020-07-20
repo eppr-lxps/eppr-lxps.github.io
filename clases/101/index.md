@@ -14,12 +14,14 @@ alt="EPPR CLASE 101 INTRO A LINUX" width="80%" height="auto" border="10" /></a>
 
 En esta clase aprenderemos a trabajar con los siguientes comandos:
 
+```markdown
 1. man  | Interfaz para leer el manual de otros comandos.
 2. sudo | comando para otorgar acceso de super usuario a otros usuarios.
 3. ssh  | Conexión segura a otro Shell remoto.
 4. shutdown | Comando para agendar apagar nuestra computadora.
 5. reboot   | Comando para reiniciar nuestra computadora.
 6. poweroff | Comando para apagar nuestra computadora rápidamente.
+```
 
 ### man
 
