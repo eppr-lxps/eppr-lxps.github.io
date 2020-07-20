@@ -1,37 +1,40 @@
-## Welcome to EPPR-lxps.github.io
+# ¡Bienvenidx!
+### Escuela de Programación y Pensamiento Recursivo
 
-You can use the [editor on GitHub](https://github.com/eppr-lxps/eppr-lxps.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[EPPR ©](https://eppr.link)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+------------
 
-### Markdown
+## Cursos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### LINUX I
 
 ```markdown
-Syntax highlighted code block
+10 Clases de preparación y bienvenida al mundo de Linux adentro de tu Raspberry Pi.
+```
+Link: [Curso LINUX I](cursos/linux-I/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+------------
 
-1. Numbered
-2. List
+## Clases
 
-**Bold** and _Italic_ and `Code` text
+### 101 - INTRO A LINUX (LINUX I)
 
-[Link](url) and ![Image](src)
+```markdown
+Comandos de esta clase:
+
+1. man
+2. sudo
+3. ssh
+4. shutdown
+5. reboot
+6. poweroff
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Link: [Clase 101](clases/101/)
 
-### Jekyll Themes
+### Soporte o Contacto
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eppr-lxps/eppr-lxps.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Visita nuestro grupo en [Google Chat](https://chat.google.com/) o contáctanos mediante [Instagram](https://instagram.com/recurs1v0)
