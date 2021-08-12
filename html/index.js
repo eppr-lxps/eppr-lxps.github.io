@@ -1,4 +1,6 @@
 function readyFn( ) {
     // Code to run when the document is ready.
-    console.log('Hello World')
+    document.getElementById("submit").addEventListener("click", () => {
+        console.log('Hello World')
+    });
 }
