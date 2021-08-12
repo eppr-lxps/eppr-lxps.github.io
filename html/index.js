@@ -1,4 +1,4 @@
-function readyFn( jQuery ) {
+function readyFn( ) {
     // Code to run when the document is ready.
     console.log('Hello World')
 }
