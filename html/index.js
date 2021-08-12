@@ -3,4 +3,4 @@ function readyFn( jQuery ) {
     console.log('Hello World')
 }
  
-$( document ).ready( readyFn );
+$( window ).on( "load", readyFn );
