@@ -1,8 +1,6 @@
-document.getElementById("submit").addEventListener("click", () => {
-    const address = document.getElementById("address").value;
-    console.log('click')
-});
-
-function customProcess(input, options) {
-  console.log('ok')
+function readyFn( jQuery ) {
+    // Code to run when the document is ready.
+    console.log('Hello World')
 }
+ 
+$( document ).ready( readyFn );
