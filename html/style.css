@@ -6,7 +6,8 @@ body {
   padding: 0;
 }
 
-select {
+select,
+img {
   width: 100%;
 }
 
