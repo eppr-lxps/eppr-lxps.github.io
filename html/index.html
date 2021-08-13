@@ -10,16 +10,28 @@
     <script src="./index.js" defer></script>
   </head>
   <body onload="readyFn()">
+    <!-- Inicio Container -->
     <div class="container">
-      <div id="floating-panel" class="row">
-        <input id="input" type="textbox" value="" placeholder="Ingresa un valor" />
-        <input id="submit" type="button" value="INICIAR" />
+      <!-- Inicio primer Row -->
+      <div class="row justify-content-md-center">
+        <div id="floating-panel" class="col col-lg-4">
+          <input id="input" type="textbox" value="" placeholder="Ingresa un valor" />
+          <input id="submit" type="button" value="INICIAR" />
+        </div>
       </div>
+      <!-- Final primer Row -->
+      <!-- Inicio segundo Row -->
       <div class="row">
-        <select>
-          <option value="ninguno"> Selecciona un algoritmo ... </option>
-        </select>
+        <div class="row justify-content-md-center">
+          <div class="col col-lg-4">
+            <select>
+              <option value="ninguno"> Selecciona un algoritmo ... </option>
+            </select>
+          </div>
+        </div>
       </div>
+      <!-- Final segundo Row -->
     </div>
+    <!-- Final Container -->
   </body>
 </html>
