@@ -6,6 +6,10 @@ body {
   padding: 0;
 }
 
+select {
+  width: 100%;
+}
+
 #floating-panel {
   z-index: 5;
   background-color: #fff;
