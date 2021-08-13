@@ -15,7 +15,7 @@ function readyFn( ) {
         myFunction(texto)
     });
 }
-function myFunction( input ) {
+function myFunction( texto ) {
     console.log(texto)
 }
 // Ejemplo de una función nueva
