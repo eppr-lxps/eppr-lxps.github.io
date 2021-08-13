@@ -1,7 +1,11 @@
 function readyFn( ) {
     // Este código es lanzado por el elemento <body onload="readyFn()">
-    const entrada = document.getElementById("input");
+    const entrada  = document.getElementById("input");
+    const selector = document.getElementById("select");
     // Creamos un "Listener" para escuchar eventos en nuestra página, en este ejemplo, el evento es "click".
+    selector.addEventListener("change", (event) => {
+        console.log(event.target.value)
+    })
     document.getElementById("submit").addEventListener("click", () => {
         // Aquí es donde vamos a realizar todas nuestras actividades.
         var texto = entrada.value // Actualizar el valor de la constante "entrada", por si ha cambiado recientemente.
