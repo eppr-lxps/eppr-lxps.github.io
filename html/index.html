@@ -10,9 +10,16 @@
     <script src="./index.js" defer></script>
   </head>
   <body onload="readyFn()">
-    <div id="floating-panel">
-      <input id="input" type="textbox" value="" placeholder="Ingresa un valor" />
-      <input id="submit" type="button" value="INICIAR" />
+    <div class="container">
+      <div id="floating-panel" class="row">
+        <input id="input" type="textbox" value="" placeholder="Ingresa un valor" />
+        <input id="submit" type="button" value="INICIAR" />
+      </div>
+      <div class="row">
+        <select>
+          <option value="ninguno"> Selecciona un algoritmo ... </option>
+        </select>
+      </div>
     </div>
   </body>
 </html>
